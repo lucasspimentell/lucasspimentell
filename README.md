@@ -1,7 +1,8 @@
-## Hi there 👋
+## OI eu sou lucas 👋
 
 - 🔭 Cursando técnico em informática no IFPE
 - 🌱 Estudando javascript, Html e Css
+- 📧 Contate-me: lucas47b@hotmail.com
 
 <div>
    <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,6 +12,4 @@
 
 ##
 
-<div>
-  <a href="www.linkedin.com/in/lucas-pimentel-31408b250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
