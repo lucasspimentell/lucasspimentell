@@ -1,6 +1,6 @@
 ## Oi eu sou lucas 👋
 
-- 🔭 Cursando técnico em informática no IFPE
+- 🔭 Cursando técnico em informática para internet no IFPE
 - 🌱 Estudando javascript, HTML e CSS
 - 📧 Contate-me: lucas47b@hotmail.com
 
@@ -12,7 +12,6 @@
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasspimentell/lucasspimentell/output/github-contribution-grid-snake-dark.svg">
