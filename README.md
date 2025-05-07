@@ -1,7 +1,7 @@
-## Oi eu sou lucas 👋
+## Oi, eu sou Lucas 👋
 
-- 🔭 Cursando técnico em informática para internet no IFPE
-- 🌱 Estudando javascript, HTML e CSS
+- 🔭 Cursando: Técnico em Informática para Internet - IFPE.
+- 🌱 Estudando: JavaScript, HTML e CSS.
 - 📧 Contate-me: lucas47b@hotmail.com
 
 
