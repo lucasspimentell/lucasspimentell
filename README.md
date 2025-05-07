@@ -4,7 +4,6 @@
 - 🌱 Estudando javascript, HTML e CSS
 - 📧 Contate-me: lucas47b@hotmail.com
 
-##
 
 <div>
    <img align="center" alt="lucas-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
