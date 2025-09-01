@@ -1,8 +1,14 @@
 ## Oi, eu sou Lucas 👋
-
-- 🔭 Cursando: Técnico em Informática para Internet - IFPE.
-- 🌱 Estudando: JavaScript, HTML e CSS.
+- 🎓 Técnico em Informática
+- 📚 Cursando Técnico em Informática para Internet - IFPE
+- 💻 Estudando e praticando: JavaScript, HTML, CSS, Git e GitHub .
 - 📧 Contate-me: lucas47b@hotmail.com
+  
+   Foco em Desenvolvimento Front-End
+
+🚀 Em busca de oportunidades como Desenvolvedor Júnior (Dev Jr)
+🛠️ Construindo projetos próprios para ganhar experiência e fortalecer o portfólio
+📍 Aberto a colaborações e aprendizados contínuos!
 
 
 <div>
