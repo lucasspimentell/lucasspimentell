@@ -1,7 +1,7 @@
 ## Oi, eu sou Lucas 👋
 - 🎓 Técnico em Informática
 - 📚 Cursando Técnico em Informática para Internet - IFPE
-- 🏫 Graduando analise e desenvolvimento de sistemas
+- 🏫 Graduando em analise e desenvolvimento de sistemas
 - 💻 Estudando e praticando: JavaScript, HTML, CSS,React, Git e GitHub .
 - 📧 Contate-me: lucas47b@hotmail.com
   
@@ -11,6 +11,8 @@
    <img align="center" alt="lucas-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="lucas-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="lucas-React" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Light/React.svg">
+
 </div>
 
 <picture align="center">
